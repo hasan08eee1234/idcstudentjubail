@@ -1,0 +1,100 @@
+h1{
+	color:red;
+	font-size:45px;
+	font-weight:bold;
+	font-style:italic;
+	font-family:Algerian;
+}
+h2{
+	color:green;
+	font-size:50px;
+	font-weight:bold;
+	font-style:italic;
+	font-family:Arial;	
+}
+h3{
+	color:blue;
+	font-size:30px;
+	font-weight:bold;
+	font-style:italic;
+	font-family:Arial;	
+	
+}
+h4{
+	color:blue;
+	font-size:23px;
+	font-weight:bold;
+	font-style:italic;
+	font-family:Arial;	
+	
+}
+h5{
+	color:green;
+	font-size:25px;
+	font-weight:bold;
+	font-style:italic;
+	font-family:Arial;	
+}
+
+
+
+
+body{
+	background-color:pink;
+
+}
+
+#am{
+	color:black;
+	
+	
+}
+.bk{
+	color:white;
+	
+}
+
+#imam{
+	background-color:yellow;
+	width:300px;
+	height:200px;
+}
+
+.hasan{
+	background-color:red;
+	width:300px;
+	height:200px;
+	margin-top:50px;
+	margin-left:50px;
+	margin-bottom:50px;
+	padding:40px;
+}
+
+.ayan{
+	background-color:green;
+	width:300px;
+	height:200px;
+	
+}
+.ayan:hover{
+	background-color:red;
+	width:300px;
+	height:200px;
+	
+}
+
+#wrapper{
+	border: 10px solid red;
+    height:200px;
+	width:300px;
+	overflow:scroll;
+	
+}
+.custom-margin {
+    margin-top: 10px;
+    margin-right: 30px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+}
+
+
